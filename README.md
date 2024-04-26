@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hammad Shamir</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
 
+<img src="https://media.licdn.com/dms/image/D4D16AQGmGqvV5G8I6g/profile-displaybackgroundimage-shrink_350_1400/0/1713776146346?e=1719446400&v=beta&t=uZ7rVxfDFy9jw_jJBkP5MXtCNTe9pwBE42cI7fxg33w" alt="Girl in a jacket" width="500" height="600">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshamir&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshamir" /> </p>
 
