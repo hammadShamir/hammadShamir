@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hammad Shamir</h1>
 <h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
 
-<img src="https://developerhammad.vercel.app/_next/image?url=%2Fimg%2Fdarkprofile.png&w=640&q=75" alt="Girl in a jacket" width="500" height="600">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshamir&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshamir" /> </p>
 
