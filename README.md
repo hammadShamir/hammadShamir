@@ -44,7 +44,7 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=nodejs,expressjs,typescript,javascript,react,angular,nextjs" />
      <img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,scss,css,illustrator,photoshop,figma" />
-    <img src="https://skillicons.dev/icons?i=mongo,postgres,sequelize,mysql,redis,firebase,redux," />
+    <img src="https://skillicons.dev/icons?i=mongo,postgres,sequelize,mysql,redis,firebase,redux" />
     <img src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,linux,bash,heroku,vercel,netlify" />
      <img src="https://skillicons.dev/icons?i=redux,postman,github,vscode" />
 </div>
