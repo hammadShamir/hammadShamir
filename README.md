@@ -41,12 +41,12 @@
 <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
-<div>
-<img align="center" src="https://skillicons.dev/icons?i=nodejs,expressjs,typescript,javascript,react,angular,nextjs,tailwind,materialui,bootstrap,scss,css,illustrator,photoshop,figma" />
-<img align="center" src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,scss,css,illustrator,photoshop,figma" />
-<img align="center" src="https://skillicons.dev/icons?i=mongo,postgres,sequelize,mysql,redis,firebase,redux" />
-<img align="center" src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,linux,bash,heroku,vercel,netlify" />
-<img align="center" src="https://skillicons.dev/icons?i=postman,github,vscode" />
+<div align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,expressjs,typescript,javascript,react,angular,nextjs,tailwind,materialui,bootstrap,scss,css,illustrator,photoshop,figma" />
+<img src="https://skillicons.dev/icons?i=tailwind,materialui,bootstrap,scss,css,illustrator,photoshop,figma" />
+<img  src="https://skillicons.dev/icons?i=mongo,postgres,sequelize,mysql,redis,firebase,redux" />
+<img  src="https://skillicons.dev/icons?i=aws,azure,docker,jenkins,kubernetes,linux,bash,heroku,vercel,netlify" />
+<img  src="https://skillicons.dev/icons?i=postman,github,vscode" />
 </div>
 <br/>
 <hr/>
