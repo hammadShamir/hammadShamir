@@ -11,19 +11,23 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Hostelow](https://www.hostelow.com/) MarketPlace
+<div align="center">
+ 
+🔭 I’m currently working on [Hostelow](https://www.hostelow.com/) MarketPlace
 
-- 🌱 I’m currently learning **DevOps**
+🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://github.com/hammadShamir](https://github.com/hammadShamir)
+👨‍💻 All of my projects are available at [https://github.com/hammadShamir](https://github.com/hammadShamir)
 
-- 💬 Ask me about **Mern Stack, Mean Stack, Pern Stack, DevOps**
+💬 Ask me about **Mern Stack, Mean Stack, Pern Stack, DevOps**
 
-- 📫 How to reach me **hammadshamir7@gmail.com**
+📫 How to reach me **hammadshamir7@gmail.com**
 
-- 📄 Know about my experiences [https://developerhammad.vercel.app/](https://developerhammad.vercel.app/)
+📄 Know about my experiences [https://developerhammad.vercel.app/](https://developerhammad.vercel.app/)
 
-- ⚡ Fun fact **Popular Technologies: JavaScript is the most popular programming language, used by 63% of developers, followed by HTML/CSS and Python.**
+⚡ Fun fact **Your smartphone today has more computing power than the computers that sent us to the moon in 1969. It's a rocket scientist in your pocket!" 🚀📱😄**
+
+ </div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
