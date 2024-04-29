@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hammad Shamir</h1>
-<h3 align="center">A passionate Software Engineer and Full Stack Developer</h3>
+<h3 align="center">A Passionate Software Engineer and Full Stack Developer</h3>
 
 <img src="banner.png" alt="Banner" width="100%" height="100%">
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Mern Stack, Mean Stack, Pern Stack, DevOps**
 
-- 📫 How to reach me **hammadshamir@gmail.com**
+- 📫 How to reach me **hammadshamir7@gmail.com**
 
 - 📄 Know about my experiences [https://developerhammad.vercel.app/](https://developerhammad.vercel.app/)
 
