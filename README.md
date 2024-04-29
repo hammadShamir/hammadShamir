@@ -1,7 +1,6 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hammad+Shamir!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Hammad+Shamir!;A+Passionate+Software+Engineer+and+Full+Stack+Developer" />
 </h1>
-<h3 align="center">A Passionate Software Engineer and Full Stack Developer</h3>
 
 <img src="banner.png" alt="Banner" width="100%" height="100%">
 
